@@ -1,2 +1,17 @@
 body{
-  background-color:red;}
+  background-color:rgb(197, 184, 184);
+}
+p{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+h1{
+  color: aqua;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contParrafo{
+  width: 50%;
+  border: 3px solid black;
+  margin: auto;
+  text-align: center;
+}
